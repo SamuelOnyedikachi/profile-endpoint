@@ -1,0 +1,23 @@
+{
+  "name": "profile-endpoint",
+  "version": "1.0.0",
+  "description": "Dynamic profile endpoint with cat facts - Backend Wizards Stage 0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Run: curl http://localhost:3000/me to test\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  },
+  "keywords": [
+    "api",
+    "backend",
+    "cat-facts",
+    "express"
+  ],
+  "author": "Samuel Onyedikachi",
+  "license": "MIT"
+}
