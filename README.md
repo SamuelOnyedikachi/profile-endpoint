@@ -17,6 +17,6 @@ A RESTful API endpoint that returns profile information with dynamic cat facts f
 
 1. **Clone and install:**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SamuelOnyedikachi/profile-endpoint.git
 cd profile-endpoint
 npm install
